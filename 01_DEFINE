@@ -121,12 +121,10 @@ Particularly as we're looking at a more global
 market and production, we're interested in quality,
 and even more so now we're starting to look at sustainability.
 So just to give you an example of Six Sigma.
-So here is a picture of
-the Mini. Now this is not a real example for the Mini but suppose you have an
-automobile
-with 10,000 parts
-and processes. So
-if you have in those 10,000 parts and processes a failure rate of 6,210
+So here is a picture of the Mini. 
+Now this is not a real example for the Mini but suppose you have an
+automobile with 10,000 parts and processes. So if you have in those 10,000 
+parts and processes a failure rate of 6,210
 parts-per-million. So for every million
 part every million parts you have one failure
 and you have 10,000 parts or processes. Then you can expect to have none
@@ -195,6 +193,138 @@ towards a goal of total quality management.
 
 1-2 LECTURE: Understanding Customer Expectations
 
+Now we want to look at the important concepts of understanding 
+customer expectations to define the problem, the heart
+of the "define" phase of our DMAIC flow.
+So for the learning objectives, we'd like you to be able to explain
+the relevance of the "define" phases in the DMAIC flow,
+and discuss the differences between a problem
+in the process outputs, and causes of the problem, which should be
+in the process itself or the process inputs.
+And then we will list the key
+parts of the "define" phase in a DMAIC project.
+So, first of all, what we're going to use
+is an example here from Dr. Reiner
+Hutwelker, who's one of our course contributors. He's a Six Sigma Black Belt,
+and here he has this scenario for cookie baking. (1:20)
+So you have the inputs for your cookies.
+You have flour, you have sugar, you have eggs,
+you have salt. Those all go into the process.
+Process: you have your cook,
+the cook weighs the ingredients, mixes them together,
+forms the cookies, and puts them in the oven. And your output
+is a burnt cookie. What's your problem?
+Clearly here you have a problem; you have a burnt cookie.
+Now, this may seem very very obvious to you, (1:54)
+but, as we show in this cartoon, defining the problem is not always so easy.
+This is from project cartoons, so you have
+how the customer explained what they
+wanted, how the project manager understood what they wanted,
+and then what the customer finally received. In a complex organization
+with a complex product, you may know the customer expectations,
+but you may not have understood them--or you may know the customer expectations
+and then they change, or you may know the customer expectations,
+but your process is not capable of producing
+to that level of quality. So
+it's important to be able to define
+the problem very, very clearly--
+clearly and accurately-- before you start any type of
+project.
+And this has been well-known in the literature.
+You can see for many, many years people have discussed,
+"What is a problem? How do you define a problem?"
+And we can say
+a problem is an undesirable state;
+it is not meeting the customer expectations,
+or it could be improved
+in order to exceed the customer expectations.
+It's a gap--a problem is a gap--
+in the actual state, the as-is state,
+and the desired state, the to-be state.
+But now we need to, as part of our project--as part of "define"--
+to define the problem, and here again
+there's a lot of debate with scholars,
+how to define a problem correctly.
+How can you verbally state the problem,
+how can you write down clearly what is the problem.
+And the conclusion in general is that this depends on the circumstances.
+It depends on the situation, it depends on the perspectives of the people.
+But for our DMAIC project we need to clearly understand
+what is the problem so that we can follow
+our flow in order to effect
+a process improvement. So
+we're going back, then, just briefly to the cookie
+scenario. Again you have inputs,
+you have processes and then you have
+and output. And here we have an output that the cookie is burnt.
+And it's important to understand in this section
+that problems
+are always attributes of the
+output a process. Here the example
+is that the cookie is burnt. The problem is not that
+we cooked too long, we baked too long, or we didn't use enough
+eggs. The problem is that the cookie is burnt.
+So, to restate this, and again this is from
+Dr. Hutwelker (5:08), a problem is the deviation
+of a required attribute in the product in the
+output of a process. This attribute, then,
+can be assigned to either a problem with the quality
+of the product, a problem with the availability--maybe you don't have
+enough,
+or it's late--or a problem that the product consumes too many
+resources. And you have a range, then--
+a target range you would like your quality,
+your availability, and your resource consumption
+to fall within a desired range.
+And when you look at the output, you see if those
+are achieved or not. So
+in the "define" phase of the
+DMIAC process--and this can be extended into Six Sigma--
+you want to do at least the following steps:
+Customers, employees, and managers
+need to identify problems, or you can call them
+potentials, in processes and in products.
+These need to be evaluated,
+the relevance of the output parameters need to be evaluated,
+and the impact of these output parameters
+need to be estimated on the fulfillment of the
+output quality. So how critical are these parameters for
+output quality? The information is to be summarized
+about the process, about the important outputs,
+and about the problems that are observed. And you need to
+indicate the relevance of this information on the customer expectations
+and on the business. And finally then to agree on an objective
+for the important critical-to-quality parameters,
+and on the scope of the entire project. And then, of course,
+as part of "define" in a real project, you would define the team,
+you define your deadlines, and that would all be then clarified
+before you move into the analysis,
+the improvement, and the control parts-- the measurement, analysis, improvement,
+and control parts of your DMAIC
+flow.
+So, to do this in our course, we have developed a small
+project, the DMAIC project, and this is based on
+hiking boot production--loosely based on hiking boot production--
+and we use this, then, to help you
+go through each step of the DMAIC process.
+So, what we'd like you to do now--please complete the practice problem
+for defining quality and then start
+the DMAIC project in this section. We have the first part is the introduction
+and the second part is called
+defining customer expectations and basic process understanding.
+Next week,
+and then for the next seven weeks, we're going to be doing
+the statistics for quality. And in
+each section we're going to try to relate this, then, back
+to our DMAIC project
+with the hiking boots. And of course we have practice problems related to quality in each,
+but from next week on we'll be looking in
+detail at the measure, analyze,
+improve, and control sections, and so it's very important to understand, then,
+that the "define" phase is your starting point.
+It's the define phase that then starts off
+everything else for the successful completion
+of your process improvement project.
 
 --__--__
 
