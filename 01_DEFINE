@@ -1,13 +1,12 @@
 01_DEFINE
 
-1-0 LECTURE: Defining Quality
+1-0 LECTURE: Intro - DEFINE
 
 The involvement of the customer is not obvious, especially not
 in complex environments. One of the most difficult parts of a quality
 improvement program is to define the problem and to bring all 
 the stakeholders together to define the exact project that will be undertaken.
 This is why the "define" part of the DMAIC process is so important.
-
 We have left out one important aspect of quality, though,
 and that is we need to consider the value
 of the quality to the customer. As Godfrey says,
@@ -22,20 +21,193 @@ the durability of the product, service ability. Quality must be defined
 according to what the customer wants
 and this must be in terms of measurable characteristics,
 within the limits of their variability.
---__--__
-
-1-1 LECTURE: Understanding Customer Expectations
-
 
 --__--__
-1-2 LECTURE: Defining Quality
+
+1-1 LECTURE: Defining Quality
+
+Quality:
+"fitness for use and meeting or exceeding the customer expectations."
+And then we have a
+more recent definition by Professor Godfrey from North Carolina State
+University,
+and he says the most fundamental truth is that quality
+is relative. The customer focuses on value
+and it sees this value as a ratio
+of quality to price, and
+only when we offer more value than our competitors
+do we truly succeed. So we also mentioned quality means 
+different things to different people.
+Quality could be for you the fact that the product works, the performance
+of the product.
+It could be the reliability of the product,
+it could be the features that the product had or,
+maybe, the aesthetics of the product.
+It could be also a perceived quality--how do you
+perceive the quality as your product, or today we're talking a lot about
+sustainability aspects of the product. Quality must be
+defined for each product based on what the customer
+wants in the product through--
+and this is important for our for our course--
+it must be defined through measurable characteristics
+and their limits of variability. So
+quality is always relative to a set of requirements, to a set of specifications.
+These can be functional requirements, these could be
+subjective requirements, and quality means
+meeting or exceeding customer expectations
+depending on what the customer sees as quality.
+So we understand that now.
+What is non-quality? What do I mean by non-quality?
+Quote from Warren Buffett:
+"It takes 20 years to build a reputation and five minutes to ruin it.
+If you think about that, then you'll do things differently."
+And I think this tells us what
+we all know non-quality means. If you think
+of some of the product recalls that have happened recently,
+if you think of the fines that the big companies
+who've had big recalls have to pay or the damage to their reputation or to their sales.
+The past view of quality management
+was that this is very much end-of-line testing.
+The products would come out of the line and be tested, and either they would be scrapped
+or they would be reworked. Quality was viewed as costly and very very reactive,
+something that would add time and resources,
+consumption to your process, but today that has changed. And what we'd like to do now
+is to review
+the main milestones in quality management
+over the past 100 years or so.
+So here we see then from our textbook (4:25)
+some of the major milestones, and we'd just like to highlight
+the most important ones. And of course we start with the 1920s with Dr. Shewhart
+from Bell Labs.
+And Dr. Shewhart developed the fundamentals of the statistical methods
+that are used today
+for statistical process control and control charts.
+And Drs. Dodge and Roming worked on statistical sampling plans, also a
+key for quality management, and
+we also had then the contributions of designed experiments.
+So Sir Ronald Fisher,
+he was working on agricultural yields,
+and of course we have Dr. Taguchi, who was looking at
+process and product D.O.E.s for engineers.
+Now, in World War II the US military started using
+statistical methods in order to produce goods
+and ammunition, and after the war
+there was many developments in the
+science of reliability. But it wasn't until
+after the war that the more exciting quality management
+concepts were developed, then, for consumers,
+for consumer production. And of course we start with
+Edward Deming who went to Japan,
+bringing Dr. Shewhart's ideas of statistical process control
+to the Japanese automobile industry, and here we have the birth
+of, with the Japanese, the worth of Toyota Production System,
+also known as lean manufacturing. And this meant
+that the Japanese automobile industry suddenly presented a huge
+competition to the American
+automobile industry. And it was understood
+the power of these quality methods, and
+in the 1980s, Motorola made a huge step
+with their Six Sigma process,
+a data-driven, systematic,
+problem-solving approach following also the DMAIC flow.
+In 1987, we saw the standardization
+of quality standards
+as part of the International Organization for Standardization.
+This was the ISO 9000 standards at the time.
+And today we see the acceptance of quality
+as a critical strategic parameter
+in business planning. And the customers--we are also interested in quality.
+Particularly as we're looking at a more global
+market and production, we're interested in quality,
+and even more so now we're starting to look at sustainability.
+So just to give you an example of Six Sigma.
+So here is a picture of
+the Mini. Now this is not a real example for the Mini but suppose you have an
+automobile
+with 10,000 parts
+and processes. So
+if you have in those 10,000 parts and processes a failure rate of 6,210
+parts-per-million. So for every million
+part every million parts you have one failure
+and you have 10,000 parts or processes. Then you can expect to have none
+of your automobiles fault-free. If you
+have a Six Sigma quality, if you have controlled your process to
+3.4 defects per million
+then you will have roughly 97 percent of
+your product defect-free. So
+this is showing us then
+that if you have complex processes, if you have complex products,
+if you use statistics in quality,
+you can push your production from being
+from having 0 good parts
+to having nearly defect-free parts. Now
+we wanted to talk again a little bit also about today's view of quality
+management, and this is from
+a presentation by Dr. Manfred Seiker here in Munich.
+He's worked many years in quality management, and I like the way
+he presents this. He looks at quality management
+as a set of enablers and a set of results.
+And across the bottom you see people, processes,
+products, and then people again. And
+at two different levels, you see subjective and objective. So
+what this means--let's start in the top corner. In order to have
+quality management in your organization, you need to have the leadership,
+the employees, the value and the culture,
+dedicated to quality. These subjective
+ideas that then can be used to enforce
+the objectives, strategy, management,
+and targets for a quality organization, quality in the organization.
+Now then, in order to
+realize these targets, you have to manage change.
+You have to manage change to change your processes, both your
+internal and your external processes, and processes to do with your suppliers,
+to develop quality processes.
+Those are all the enablers. Then we move to the results.
+Having quality processes, having the quality mindsets,
+brings, then, quality products. And again, quality products
+depends on what the customer expectations are.
+You are meeting or exceeding customer expectations.
+And then finally, who does this affect?
+What are the results? You have your customers,
+you have the society that is receiving your products,
+but also as Dr. Seiker points out,
+we have the stakeholders in the company, a very critical
+part of our entire quality
+management. These are the people interested in the success of the company.
+Now what does it take to realize this?
+Of course, we are looking at statistics in this course. We're going to be looking at
+the processes and products, we're going to be evaluating
+their performance and looking at ways to improve that, but
+what else does this involve? And here,
+in this next slide, Dr. Seiker has added
+all the different people that are involved.
+And you can see here finance, you can see here management.
+You have the quality engineers doing the statistics.
+You have the marketing. You have the product developers.
+You have the communication. You have customers. Everybody in the company
+is involved in the quality management. It is just not--
+it's no longer just the inspection team at the end of the line
+doing a sorting of the final products. It is a mindset,
+it is a philosophy, which then drives the company
+towards a goal of total quality management.
+
+--__--__
+
+1-2 LECTURE: Understanding Customer Expectations
 
 
 --__--__
+
+1-2 PRACTICE: Defining Quality
+
+
+--__--__
+
 1 PROJECT: Introduction
 
 
 --__--__
+
 1 PROJECT: DEFINE - Defining Customer Expectations, Basic
 Process Understanding
 
